@@ -1,0 +1,5 @@
+Git is a distributed version control system, that allows a user to track, alter, and share their code. Git also allows the user to track changes they 
+make to their code. Github has three fundamentals, repositories, cloning, and committing. A repository is where a user's project happens. 
+A repository contains all of a user's files and track history of changes made to the user's file. A user can invite others to work on a code with them in
+the repository. A respository is stored in the cloud. A user can clone a repository to create a copy on their computer. Cloning a repository makes it 
+easier to fix issues. When a user commits they are essentially adding changes to their repository in Github. 
