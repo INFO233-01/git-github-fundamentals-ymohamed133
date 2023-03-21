@@ -96,6 +96,12 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
+Git is a distributed version control system, that allows a user to track, alter, and share their code. Git also allows the user to track changes they 
+make to their code. Github has three fundamentals, repositories, cloning, and committing. A repository is where a user's project happens. 
+A repository contains all of a user's files and track history of changes made to the user's file. A user can invite others to work on a code with them in
+the repository. A respository is stored in the cloud. A user can clone a repository to create a copy on their computer. Cloning a repository makes it 
+easier to fix issues. When a user commits they are essentially adding changes to their repository in Github. 
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
